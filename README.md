@@ -4,4 +4,4 @@ This script helps you locate the Digital Elevation Data (DEM) files for your are
 
 ###NOTICE！！！###
 
-The files in the Global_DEM_tif_file folder are only placeholder files in the uploaded version due to size limitations. Before using the script, you need to download the DEM files in advance, extract them, and replace the placeholders.You can download the DEM files using the download_Dem.sh script located in the folder.
+The files in the Global_DEM_tif_file folder(Please extract the files beforehand to avoid errors.) are only placeholder files in the uploaded version due to size limitations. Before using the script, you need to download the DEM files in advance, extract them, and replace the placeholders.You can download the DEM files using the download_Dem.sh script located in the folder.
